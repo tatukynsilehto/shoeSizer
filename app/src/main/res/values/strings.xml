@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">shoeSizer</string>
+    <string-array name="men_women">
+        <item>Mens</item>
+        <item>Womens</item>
+    </string-array>
 </resources>
